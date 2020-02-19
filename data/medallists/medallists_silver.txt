@@ -1,0 +1,348 @@
+﻿Date,PhaseName,Rank,Medal,Person/Team,Country, ,Age (days),Result
+16-Aug-2016,Cycling - Track 500m Time Trial Women - Olympic Games 2016 500m Time Trial,2,,"Laura Kenny (ENG, 24 Apr 1992)",Great Britain,,24-114,35.253
+16-Aug-2016,Cycling - Track Flying Lap Women - Olympic Games 2016 Flying Lap,2,,"Annette Edmondson (AUS, 12 Dec 1991)",Australia,,24-248,13.878
+16-Aug-2016,Cycling - Track Keirin Men - Olympic Games 2016,2,S,"Matthijs Büchli (NED, 13 Dec 1992)",Netherlands,,23-247,
+16-Aug-2016,Cycling - Track Omnium Women - Olympic Games 2016,2,S,"Sarah Hammer (USA, 18 Aug 1983)",United States,,32-364,206
+16-Aug-2016,Cycling - Track Points Race Women - Olympic Games 2016 Points Race,2,,"Lauren Ellis (NZL, 19 Apr 1989)",New Zealand,,27-119,73
+16-Aug-2016,Cycling - Track Sprint Women - Olympic Games 2016,2,S,"Rebecca James (WAL, 29 Nov 1991)",Great Britain,,24-261,
+15-Aug-2016,Cycling - Track 1km Time Trial Men - Olympic Games 2016 1km Time Trial,2,,"Glenn O'Shea (AUS, 14 Jun 1989)",Australia,,27-062,1:02.332
+15-Aug-2016,Cycling - Track 3km Individual Pursuit Women - Olympic Games 2016 3km Individual Pursuit,2,,"Sarah Hammer (USA, 18 Aug 1983)",United States,,32-363,3:26.988
+15-Aug-2016,Cycling - Track Elimination Women - Olympic Games 2016 Elimination,2,,"Jolien D'hoore (BEL, 14 Mar 1990)",Belgium,,26-154,
+15-Aug-2016,Cycling - Track Flying Lap Men - Olympic Games 2016 Flying Lap,2,,"Elia Viviani (ITA, 07 Feb 1989)",Italy,,27-190,12.660
+15-Aug-2016,Cycling - Track Omnium Men - Olympic Games 2016,2,S,"Mark Cavendish (IOM, 21 May 1985)",Great Britain,,31-086,194
+15-Aug-2016,Cycling - Track Points Race Men - Olympic Games 2016 Points Race,2,,"Lasse Hansen (DEN, 11 Feb 1992)",Denmark,,24-186,40
+15-Aug-2016,Cycling - Track Scratch Women - Olympic Games 2016 Scratch,2,,"Laura Kenny (ENG, 24 Apr 1992)",Great Britain,,24-113,
+14-Aug-2016,Cycling - Track 4km Individual Pursuit Men - Olympic Games 2016 4km Individual Pursuit,2,,"Mark Cavendish (IOM, 21 May 1985)",Great Britain,,31-085,4:16.878
+14-Aug-2016,Cycling - Track Elimination Men - Olympic Games 2016 Elimination,2,,"Thomas Boudat (FRA, 24 Feb 1994)",France,,22-172,
+14-Aug-2016,Cycling - Track Scratch Men - Olympic Games 2016 Scratch,2,,"Roger Kluge (GER, 05 Feb 1986)",Germany,,30-191,
+14-Aug-2016,Cycling - Track Sprint Men - Olympic Games 2016,2,S,"Callum Skinner (SCO, 20 Aug 1992)",Great Britain,,23-360,
+13-Aug-2016,Cycling - Track Keirin Women - Olympic Games 2016,2,S,"Rebecca James (WAL, 29 Nov 1991)",Great Britain,,24-258,
+13-Aug-2016,Cycling - Track Team Pursuit Women - Olympic Games 2016,2,S,United States,United States,,23-277,4:12.454
+13-Aug-2016,Cycling - Track Team Pursuit Women - Olympic Games 2016,2,S,"Sarah Hammer (USA, 18 Aug 1983)",United States,,32-361,4:12.454
+13-Aug-2016,Cycling - Track Team Pursuit Women - Olympic Games 2016,2,S,"Kelly Catlin (USA, 03 Nov 1995)",United States,,20-284,4:12.454
+13-Aug-2016,Cycling - Track Team Pursuit Women - Olympic Games 2016,2,S,"Chloé Dygert Owen (USA, 01 Jan 1997)",United States,,19-225,4:12.454
+13-Aug-2016,Cycling - Track Team Pursuit Women - Olympic Games 2016,2,S,"Jennifer Valente (USA, 24 Dec 1994)",United States,,21-233,4:12.454
+12-Aug-2016,Cycling - Track Team Pursuit Men - Olympic Games 2016,2,S,Australia,Australia,,23-021,3:51.008
+12-Aug-2016,Cycling - Track Team Pursuit Men - Olympic Games 2016,2,S,"Alexander Edmondson (AUS, 22 Dec 1993)",Australia,,22-234,3:51.008
+12-Aug-2016,Cycling - Track Team Pursuit Men - Olympic Games 2016,2,S,"Jack Bobridge (AUS, 13 Jul 1989)",Australia,,27-030,3:51.008
+12-Aug-2016,Cycling - Track Team Pursuit Men - Olympic Games 2016,2,S,"Michael Hepburn (AUS, 17 Aug 1991)",Australia,,24-361,3:51.008
+12-Aug-2016,Cycling - Track Team Pursuit Men - Olympic Games 2016,2,S,"Sam Welsford (AUS, 19 Jan 1996)",Australia,,20-206,3:51.008
+12-Aug-2016,Cycling - Track Team Pursuit Men - Olympic Games 2016,2,S,"Callum Scotson (AUS, 10 Aug 1996)",Australia,,20-002,
+12-Aug-2016,Cycling - Track Team Sprint Women - Olympic Games 2016,2,S,Voinova / Shmeleva,Russia,,22-240,32.401
+12-Aug-2016,Cycling - Track Team Sprint Women - Olympic Games 2016,2,S,"Daria Shmeleva (RUS, 26 Oct 1994)",Russia,,21-291,32.401
+12-Aug-2016,Cycling - Track Team Sprint Women - Olympic Games 2016,2,S,"Anastasiia Voinova (RUS, 05 Feb 1993)",Russia,,23-189,32.401
+11-Aug-2016,Cycling - Track Team Sprint Men - Olympic Games 2016,2,S,New Zealand,New Zealand,,25-321,42.542
+11-Aug-2016,Cycling - Track Team Sprint Men - Olympic Games 2016,2,S,"Ethan Mitchell (NZL, 19 Feb 1991)",New Zealand,,25-174,42.542
+11-Aug-2016,Cycling - Track Team Sprint Men - Olympic Games 2016,2,S,"Sam Webster (NZL, 16 Jul 1991)",New Zealand,,25-026,42.542
+11-Aug-2016,Cycling - Track Team Sprint Men - Olympic Games 2016,2,S,"Edward Dawkins (NZL, 11 Jul 1989)",New Zealand,,27-031,42.542
+07-Aug-2012,Cycling - Track 3km Individual Pursuit Women - Olympic Games 2012 3km Individual Pursuit,2,,"Laura Kenny (ENG, 24 Apr 1992)",Great Britain,,20-105,3:30.547
+07-Aug-2012,Cycling - Track 500m Time Trial Women - Olympic Games 2012 500m Time Trial,2,,"Annette Edmondson (AUS, 12 Dec 1991)",Australia,,20-239,35.140
+07-Aug-2012,Cycling - Track Keirin Men - Olympic Games 2012,2,S,"Maximilian Levy (GER, 26 Jun 1987)",Germany,,25-042,
+07-Aug-2012,Cycling - Track Omnium Women - Olympic Games 2012,2,S,"Sarah Hammer (USA, 18 Aug 1983)",United States,,28-355,19
+07-Aug-2012,Cycling - Track Scratch Women - Olympic Games 2012 Scratch,2,,"Sarah Hammer (USA, 18 Aug 1983)",United States,,28-355,
+07-Aug-2012,Cycling - Track Sprint Women - Olympic Games 2012,2,S,"Victoria Pendleton (ENG, 24 Sep 1980)",Great Britain,,31-318,
+06-Aug-2012,Cycling - Track Elimination Women - Olympic Games 2012 Elimination,2,,"Sarah Hammer (USA, 18 Aug 1983)",United States,,28-354,
+06-Aug-2012,Cycling - Track Flying Lap Women - Olympic Games 2012 Flying Lap,2,,"Clara Sanchez (FRA, 20 Sep 1983)",France,,28-321,14.058
+06-Aug-2012,Cycling - Track Points Race Women - Olympic Games 2012 Points Race,2,,"Tatsyana Sharakova (BLR, 31 Jul 1984)",Belarus,,28-006,28
+06-Aug-2012,Cycling - Track Sprint Men - Olympic Games 2012,2,S,"Gregory Benoit Bauge (FRA, 31 Jan 1985)",France,,27-188,
+05-Aug-2012,Cycling - Track 1km Time Trial Men - Olympic Games 2012 1km Time Trial,2,,"Lasse Hansen (DEN, 11 Feb 1992)",Denmark,,20-176,1:02.314
+05-Aug-2012,Cycling - Track 4km Individual Pursuit Men - Olympic Games 2012 4km Individual Pursuit,2,,"Ed Clancy (ENG, 12 Mar 1985)",Great Britain,,27-146,4:20.853
+05-Aug-2012,Cycling - Track Omnium Men - Olympic Games 2012,2,S,"Bryan Coquard (FRA, 25 Apr 1992)",France,,20-102,29
+05-Aug-2012,Cycling - Track Scratch Men - Olympic Games 2012 Scratch,2,,"Eloy Teruel (ESP, 20 Nov 1982)",Spain,,29-259,
+04-Aug-2012,Cycling - Track Elimination Men - Olympic Games 2012 Elimination,2,,"Elia Viviani (ITA, 07 Feb 1989)",Italy,,23-179,
+04-Aug-2012,Cycling - Track Flying Lap Men - Olympic Games 2012 Flying Lap,2,,"Shane Archbold (NZL, 02 Feb 1989)",New Zealand,,23-184,13.112
+04-Aug-2012,Cycling - Track Points Race Men - Olympic Games 2012 Points Race,2,,"Lasse Hansen (DEN, 11 Feb 1992)",Denmark,,20-175,59
+04-Aug-2012,Cycling - Track Team Pursuit Women - Olympic Games 2012,2,S,United States,United States,,32-315,3:19.727
+04-Aug-2012,Cycling - Track Team Pursuit Women - Olympic Games 2012,2,S,"Sarah Hammer (USA, 18 Aug 1983)",United States,,28-352,3:19.727
+04-Aug-2012,Cycling - Track Team Pursuit Women - Olympic Games 2012,2,S,"Dotsie Bausch (USA, 06 Mar 1973)",United States,,39-151,3:19.727
+04-Aug-2012,Cycling - Track Team Pursuit Women - Olympic Games 2012,2,S,"Lauren Tamayo (USA, 25 Oct 1983)",United States,,28-284,3:19.727
+04-Aug-2012,Cycling - Track Team Pursuit Women - Olympic Games 2012,2,S,"Jennie Reed (USA, 20 Apr 1978)",United States,,34-106,
+03-Aug-2012,Cycling - Track Keirin Women - Olympic Games 2012,2,S,"Guo Shuang (CHN, 26 Feb 1986)",China,,26-159,
+03-Aug-2012,Cycling - Track Team Pursuit Men - Olympic Games 2012,2,S,Australia,Australia,,22-123,3:54.581
+03-Aug-2012,Cycling - Track Team Pursuit Men - Olympic Games 2012,2,S,"Jack Bobridge (AUS, 13 Jul 1989)",Australia,,23-021,3:54.581
+03-Aug-2012,Cycling - Track Team Pursuit Men - Olympic Games 2012,2,S,"Glenn O'Shea (AUS, 14 Jun 1989)",Australia,,23-050,3:54.581
+03-Aug-2012,Cycling - Track Team Pursuit Men - Olympic Games 2012,2,S,"Rohan Dennis (AUS, 28 May 1990)",Australia,,22-067,3:54.581
+03-Aug-2012,Cycling - Track Team Pursuit Men - Olympic Games 2012,2,S,"Michael Hepburn (AUS, 17 Aug 1991)",Australia,,20-352,3:54.581
+02-Aug-2012,Cycling - Track Team Sprint Men - Olympic Games 2012,2,S,France,France,,25-330,43.013
+02-Aug-2012,Cycling - Track Team Sprint Men - Olympic Games 2012,2,S,"Gregory Benoit Bauge (FRA, 31 Jan 1985)",France,,27-184,43.013
+02-Aug-2012,Cycling - Track Team Sprint Men - Olympic Games 2012,2,S,"Kévin Sireau (FRA, 18 Apr 1987)",France,,25-106,43.013
+02-Aug-2012,Cycling - Track Team Sprint Men - Olympic Games 2012,2,S,"Michaël D'Almeida (FRA, 03 Sep 1987)",France,,24-334,43.013
+02-Aug-2012,Cycling - Track Team Sprint Women - Olympic Games 2012,2,S,Guo S / Gong J J,China,,26-028,
+02-Aug-2012,Cycling - Track Team Sprint Women - Olympic Games 2012,2,S,"Gong Jinjie (CHN, 12 Nov 1986)",China,,25-264,
+02-Aug-2012,Cycling - Track Team Sprint Women - Olympic Games 2012,2,S,"Guo Shuang (CHN, 26 Feb 1986)",China,,26-158,
+19-Aug-2008,Cycling - Track Madison Men - Olympic Games 2008,2,S,Llaneras / Tauler,Spain,,36-295,
+19-Aug-2008,Cycling - Track Madison Men - Olympic Games 2008,2,S,"Joan Llaneras (ESP, 17 May 1969)",Spain,,39-094,
+19-Aug-2008,Cycling - Track Madison Men - Olympic Games 2008,2,S,"Toni Tauler (ESP, 11 Apr 1974)",Spain,,34-130,
+19-Aug-2008,Cycling - Track Sprint Men - Olympic Games 2008,2,S,"Jason Kenny (ENG, 23 Mar 1988)",Great Britain,,20-149,
+19-Aug-2008,Cycling - Track Sprint Women - Olympic Games 2008,2,S,"Anna Meares (AUS, 21 Sep 1983)",Australia,,24-333,
+18-Aug-2008,Cycling - Track Points Race Women - Olympic Games 2008,2,S,"Yoanka González (CUB, 09 Jan 1976)",Cuba,,32-222,18
+18-Aug-2008,Cycling - Track Team Pursuit Men - Olympic Games 2008,2,S,Denmark,Denmark,,24-028,4:00.040
+18-Aug-2008,Cycling - Track Team Pursuit Men - Olympic Games 2008,2,S,"Michael Mørkøv (DEN, 30 Apr 1985)",Denmark,,23-110,4:00.040
+18-Aug-2008,Cycling - Track Team Pursuit Men - Olympic Games 2008,2,S,"Casper Jørgensen (DEN, 20 Aug 1985)",Denmark,,22-364,4:00.040
+18-Aug-2008,Cycling - Track Team Pursuit Men - Olympic Games 2008,2,S,"Jens Erik Madsen (DEN, 30 Mar 1981)",Denmark,,27-141,4:00.040
+18-Aug-2008,Cycling - Track Team Pursuit Men - Olympic Games 2008,2,S,"Alex Rasmussen (DEN, 09 Jun 1984)",Denmark,,24-070,4:00.040
+18-Aug-2008,Cycling - Track Team Pursuit Men - Olympic Games 2008,2,S,"Michael Christensen (DEN, 14 Feb 1986)",Denmark,,22-186,
+17-Aug-2008,Cycling - Track 3km Individual Pursuit Women - Olympic Games 2008,2,S,"Wendy Houvenaghel (NIR, 27 Nov 1974)",Great Britain,,33-264,3:30.395
+16-Aug-2008,Cycling - Track 4km Individual Pursuit Men - Olympic Games 2008,2,S,"Hayden Roulston (NZL, 10 Jan 1981)",New Zealand,,27-219,4:19.611
+16-Aug-2008,Cycling - Track Keirin Men - Olympic Games 2008,2,S,"Ross Edgar (SCO, 03 Jan 1983)",Great Britain,,25-226,
+16-Aug-2008,Cycling - Track Points Race Men - Olympic Games 2008,2,S,"Roger Kluge (GER, 05 Feb 1986)",Germany,,22-193,58
+15-Aug-2008,Cycling - Track Team Sprint Men - Olympic Games 2008,2,S,France,France,,25-315,43.651
+15-Aug-2008,Cycling - Track Team Sprint Men - Olympic Games 2008,2,S,"Gregory Benoit Bauge (FRA, 31 Jan 1985)",France,,23-197,43.651
+15-Aug-2008,Cycling - Track Team Sprint Men - Olympic Games 2008,2,S,"Kévin Sireau (FRA, 18 Apr 1987)",France,,21-119,43.651
+15-Aug-2008,Cycling - Track Team Sprint Men - Olympic Games 2008,2,S,"Arnaud Tournant (FRA, 05 Apr 1978)",France,,30-132,43.651
+15-Aug-2008,Cycling - Track Team Sprint Men - Olympic Games 2008,2,S,"Mickaël Bourgain (FRA, 28 May 1980)",France,,28-079,
+25-Aug-2004,Cycling - Track Keirin Men - Olympic Games 2004,2,S,"José Antonio Escuredo (ESP, 19 Jan 1970)",Spain,,34-219,
+25-Aug-2004,Cycling - Track Madison Men - Olympic Games 2004,2,S,Risi / Marvulli,Switzerland,,30-321,15
+25-Aug-2004,Cycling - Track Madison Men - Olympic Games 2004,2,S,"Franco Marvulli (SUI, 11 Nov 1978)",Switzerland,,25-288,15
+25-Aug-2004,Cycling - Track Madison Men - Olympic Games 2004,2,S,"Bruno Risi (SUI, 06 Sep 1968)",Switzerland,,35-354,15
+25-Aug-2004,Cycling - Track Points Race Women - Olympic Games 2004,2,S,"Belem Guerrero (MEX, 08 Mar 1974)",Mexico,,30-170,14
+24-Aug-2004,Cycling - Track Points Race Men - Olympic Games 2004,2,S,"Joan Llaneras (ESP, 17 May 1969)",Spain,,35-099,82
+24-Aug-2004,Cycling - Track Sprint Men - Olympic Games 2004,2,S,"Theo Bos (NED, 22 Aug 1983)",Netherlands,,21-002,
+24-Aug-2004,Cycling - Track Sprint Women - Olympic Games 2004,2,S,"Tamilla Abasova (RUS, 09 Dec 1982)",Russia,,21-259,
+23-Aug-2004,Cycling - Track Team Pursuit Men - Olympic Games 2004,2,S,Great Britain,Great Britain,,29-101,4:01.760
+23-Aug-2004,Cycling - Track Team Pursuit Men - Olympic Games 2004,2,S,"Steve Cummings (ENG, 19 Mar 1981)",Great Britain,,23-157,4:01.760
+23-Aug-2004,Cycling - Track Team Pursuit Men - Olympic Games 2004,2,S,"Rob Hayles (ENG, 21 Jan 1973)",Great Britain,,31-215,4:01.760
+23-Aug-2004,Cycling - Track Team Pursuit Men - Olympic Games 2004,2,S,"Paul Manning (ENG, 06 Nov 1974)",Great Britain,,29-291,4:01.760
+23-Aug-2004,Cycling - Track Team Pursuit Men - Olympic Games 2004,2,S,"Bradley Wiggins (ENG, 28 Apr 1980)",Great Britain,,24-117,4:01.760
+23-Aug-2004,Cycling - Track Team Pursuit Men - Olympic Games 2004,2,S,"Bryan Steel (ENG, 05 Jan 1969)",Great Britain,,35-231,
+23-Aug-2004,Cycling - Track Team Pursuit Men - Olympic Games 2004,2,S,"Chris Newton (ENG, 29 Sep 1973)",Great Britain,,30-329,
+22-Aug-2004,Cycling - Track 3km Individual Pursuit Women - Olympic Games 2004,2,S,"Katie Mactier (AUS, 23 Mar 1975)",Australia,,29-152,3:27.650
+21-Aug-2004,Cycling - Track 4km Individual Pursuit Men - Olympic Games 2004,2,S,"Bradley McGee (AUS, 24 Feb 1976)",Australia,,28-179,4:20.436
+21-Aug-2004,Cycling - Track Team Sprint Men - Olympic Games 2004,2,S,Japan,Japan,,26-164,44.246
+21-Aug-2004,Cycling - Track Team Sprint Men - Olympic Games 2004,2,S,"Masaki Inoue (JPN, 25 Jul 1979)",Japan,,25-027,44.246
+21-Aug-2004,Cycling - Track Team Sprint Men - Olympic Games 2004,2,S,"Tomohiro Nagatsuka (JPN, 28 Nov 1978)",Japan,,25-267,44.246
+21-Aug-2004,Cycling - Track Team Sprint Men - Olympic Games 2004,2,S,"Toshiaki Fushimi (JPN, 04 Feb 1976)",Japan,,28-199,44.246
+20-Aug-2004,Cycling - Track 1km Time Trial Men - Olympic Games 2004,2,S,"Arnaud Tournant (FRA, 05 Apr 1978)",France,,26-137,1:00.896
+20-Aug-2004,Cycling - Track 500m Time Trial Women - Olympic Games 2004,2,S,"Jiang Yonghua (CHN, 07 Sep 1973)",China,,30-348,34.112
+01-Oct-2000,Cycling - Track Keirin Men - Olympic Games 2000,2,S,"Gary Neiwand (AUS, 04 Sep 1966)",Australia,,34-027,
+01-Oct-2000,Cycling - Track Madison Men - Olympic Games 2000,2,S,De Wilde / Gilmore,Belgium,,35-106,22
+01-Oct-2000,Cycling - Track Madison Men - Olympic Games 2000,2,S,"Etienne De Wilde (BEL, 23 Mar 1958)",Belgium,,42-192,22
+01-Oct-2000,Cycling - Track Madison Men - Olympic Games 2000,2,S,"Matthew Gilmore (BEL, 11 Sep 1972)",Belgium,,28-020,22
+01-Oct-2000,Cycling - Track Points Race Women - Olympic Games 2000,2,S,"Leontien Zijlaard-van Moorsel (NED, 22 Mar 1970)",Netherlands,,30-193,16
+20-Sep-2000,Cycling - Track Points Race Men - Olympic Games 2000,2,S,"Milton Wynants (URU, 29 Mar 1972)",Uruguay,,28-175,18
+20-Sep-2000,Cycling - Track Sprint Men - Olympic Games 2000,2,S,"Florian Rousseau (FRA, 03 Feb 1974)",France,,26-230,
+20-Sep-2000,Cycling - Track Sprint Women - Olympic Games 2000,2,S,"Oksana Grichina (RUS, 27 Nov 1968)",Russia,,31-298,
+19-Sep-2000,Cycling - Track Team Pursuit Men - Olympic Games 2000,2,S,Ukraine,Ukraine,,26-225,4:04.520
+19-Sep-2000,Cycling - Track Team Pursuit Men - Olympic Games 2000,2,S,"Alexandre Fedenko (UKR, 20 Dec 1970)",Ukraine,,29-274,4:04.520
+19-Sep-2000,Cycling - Track Team Pursuit Men - Olympic Games 2000,2,S,"Alexandre Symonenko (UKR, 14 Feb 1974)",Ukraine,,26-218,4:04.520
+19-Sep-2000,Cycling - Track Team Pursuit Men - Olympic Games 2000,2,S,"Sergei Matveev (UKR, 29 Jan 1975)",Ukraine,,25-234,4:04.520
+19-Sep-2000,Cycling - Track Team Pursuit Men - Olympic Games 2000,2,S,"Sergei Chernyavski (UKR, 02 Apr 1976)",Ukraine,,24-170,4:04.520
+17-Sep-2000,Cycling - Track 3km Individual Pursuit Women - Olympic Games 2000,2,S,"Marion Clignet (FRA, 22 Feb 1964)",France,,36-208,3:38.751
+17-Sep-2000,Cycling - Track 4km Individual Pursuit Men - Olympic Games 2000,2,S,"Jens Lehmann (GER, 19 Dec 1967)",Germany,,32-273,4:23.824
+17-Sep-2000,Cycling - Track Team Sprint Men - Olympic Games 2000,2,S,Great Britain,Great Britain,,27-363,44.680
+17-Sep-2000,Cycling - Track Team Sprint Men - Olympic Games 2000,2,S,"Chris Hoy (SCO, 23 Mar 1976)",Great Britain,,24-178,44.680
+17-Sep-2000,Cycling - Track Team Sprint Men - Olympic Games 2000,2,S,"Craig MacLean (SCO, 31 Jul 1971)",Great Britain,,29-048,44.680
+17-Sep-2000,Cycling - Track Team Sprint Men - Olympic Games 2000,2,S,"Jason Queally (ENG, 11 May 1970)",Great Britain,,30-129,44.680
+16-Sep-2000,Cycling - Track 1km Time Trial Men - Olympic Games 2000,2,S,"Stefan Nimke (GER, 01 Mar 1978)",Germany,,22-199,1:02.487
+16-Sep-2000,Cycling - Track 500m Time Trial Women - Olympic Games 2000,2,S,"Michelle Ferris (AUS, 24 Sep 1976)",Australia,,23-358,34.696
+04-Aug-1996,Cycling - Track Points Race Women - Olympic Games 1996,2,S,"Ingrid Haringa (NED, 11 Jul 1964)",Netherlands,,32-024,23
+28-Jul-1996,Cycling - Track 3km Individual Pursuit Women - Olympic Games 1996,2,S,"Marion Clignet (FRA, 22 Feb 1964)",France,,32-157,3:38.571
+28-Jul-1996,Cycling - Track Points Race Men - Olympic Games 1996,2,S,"Brian Walton (CAN, 18 Dec 1965)",Canada,,30-223,29
+28-Jul-1996,Cycling - Track Sprint Men - Olympic Games 1996,2,S,"Marty Nothstein (USA, 10 Feb 1971)",United States,,25-169,
+27-Jul-1996,Cycling - Track Sprint Women - Olympic Games 1996,2,S,"Michelle Ferris (AUS, 24 Sep 1976)",Australia,,19-307,
+26-Jul-1996,Cycling - Track 4km Individual Pursuit Men - Olympic Games 1996,2,S,"Philippe Ermenault (FRA, 29 Apr 1969)",France,,27-088,4:22.714
+26-Jul-1996,Cycling - Track Team Pursuit Men - Olympic Games 1996,2,S,Russia,Russia,,20-266,
+26-Jul-1996,Cycling - Track Team Pursuit Men - Olympic Games 1996,2,S,"Edouard Gritsoun (RUS, 04 Feb 1976)",Russia,,20-173,
+26-Jul-1996,Cycling - Track Team Pursuit Men - Olympic Games 1996,2,S,"Nicolai Kuznetsov (RUS, 20 Jul 1973)",Russia,,23-006,
+26-Jul-1996,Cycling - Track Team Pursuit Men - Olympic Games 1996,2,S,"Alexei Markov (RUS, 26 May 1979)",Russia,,17-061,
+26-Jul-1996,Cycling - Track Team Pursuit Men - Olympic Games 1996,2,S,"Anton Chantyr (RUS, 25 Apr 1974)",Russia,,22-092,
+24-Jul-1996,Cycling - Track 1km Time Trial Men - Olympic Games 1996,2,S,"Erin Hartwell (USA, 01 Jun 1969)",United States,,27-053,1:02.940
+09-Aug-1992,Cycling - Track 3km Individual Pursuit Women - Olympic Games 1992,2,S,"Kathy Watt (AUS, 11 Sep 1964)",Australia,,27-333,
+09-Aug-1992,Cycling - Track Points Race Men - Olympic Games 1992,2,S,"Leon van Bon (NED, 28 Jan 1972)",Netherlands,,20-194,43
+09-Aug-1992,Cycling - Track Sprint Women - Olympic Games 1992,2,S,"Annett Neumann (GER, 31 Jan 1970)",Germany,,22-191,
+31-Jul-1992,Cycling - Track Sprint Men - Olympic Games 1992,2,S,"Gary Neiwand (AUS, 04 Sep 1966)",Australia,,25-331,
+31-Jul-1992,Cycling - Track Team Pursuit Men - Olympic Games 1992,2,S,Australia,Australia,,21-271,4:10.218
+31-Jul-1992,Cycling - Track Team Pursuit Men - Olympic Games 1992,2,S,"Brett Aitken (AUS, 25 Jan 1971)",Australia,,21-188,4:10.218
+31-Jul-1992,Cycling - Track Team Pursuit Men - Olympic Games 1992,2,S,"Stephen McGlede (AUS, 13 Apr 1969)",Australia,,23-109,4:10.218
+31-Jul-1992,Cycling - Track Team Pursuit Men - Olympic Games 1992,2,S,"Shaun O'Brien (AUS, 31 May 1969)",Australia,,23-061,4:10.218
+31-Jul-1992,Cycling - Track Team Pursuit Men - Olympic Games 1992,2,S,"Stuart O'Grady (AUS, 06 Aug 1973)",Australia,,18-360,4:10.218
+29-Jul-1992,Cycling - Track 4km Individual Pursuit Men - Olympic Games 1992,2,S,"Jens Lehmann (GER, 19 Dec 1967)",Germany,,24-223,
+27-Jul-1992,Cycling - Track 1km Time Trial Men - Olympic Games 1992,2,S,"Shane Kelly (AUS, 07 Jan 1972)",Australia,,20-202,1:04.288
+02-Oct-1988,Cycling - Track Sprint Women - Olympic Games 1988,2,S,"Christa Luding (GER, 04 Dec 1959)",East Germany,,28-303,
+24-Sep-1988,Cycling - Track Points Race Men - Olympic Games 1988,2,S,"Leo Peelen (NED, 16 Jul 1968)",Netherlands,,20-070,
+24-Sep-1988,Cycling - Track Sprint Men - Olympic Games 1988,2,S,"Nikolai Kovche (RUS, 22 Jan 1965)",Soviet Union,,23-246,
+24-Sep-1988,Cycling - Track Team Pursuit Men - Olympic Games 1988,2,S,East Germany,East Germany,,22-133,
+24-Sep-1988,Cycling - Track Team Pursuit Men - Olympic Games 1988,2,S,"Steffen Blochwitz (GER, 08 Sep 1967)",East Germany,,21-016,
+24-Sep-1988,Cycling - Track Team Pursuit Men - Olympic Games 1988,2,S,"Karsten Wolf (GER, 26 Aug 1964)",East Germany,,24-029,
+24-Sep-1988,Cycling - Track Team Pursuit Men - Olympic Games 1988,2,S,"Dirk Meier (GER, 28 Jan 1964)",East Germany,,24-240,
+24-Sep-1988,Cycling - Track Team Pursuit Men - Olympic Games 1988,2,S,"Roland Hennig (GER, 19 Dec 1967)",East Germany,,20-280,
+24-Sep-1988,Cycling - Track Team Pursuit Men - Olympic Games 1988,2,S,"Uwe Preissler (GER, 17 Jun 1967)",East Germany,,21-099,
+22-Sep-1988,Cycling - Track 4km Individual Pursuit Men - Olympic Games 1988,2,S,"Dean Woods (AUS, 22 Jun 1966)",Australia,,22-092,
+20-Sep-1988,Cycling - Track 1km Time Trial Men - Olympic Games 1988,2,S,"Martin Vinnicombe (AUS, 05 Dec 1964)",Australia,,23-290,1:04.784
+03-Aug-1984,Cycling - Track Points Race Men - Olympic Games 1984,2,S,"Uwe Messerschmidt (GER, 22 Jan 1962)",West Germany,,22-194,
+03-Aug-1984,Cycling - Track Sprint Men - Olympic Games 1984,2,S,"Nelson Vails (USA, 13 Oct 1960)",United States,,23-295,
+03-Aug-1984,Cycling - Track Team Pursuit Men - Olympic Games 1984,2,S,United States,United States,,25-019,4:29.850
+03-Aug-1984,Cycling - Track Team Pursuit Men - Olympic Games 1984,2,S,"David Grylls (USA, 29 Sep 1957)",United States,,26-309,4:29.850
+03-Aug-1984,Cycling - Track Team Pursuit Men - Olympic Games 1984,2,S,"Steve Hegg (USA, 03 Dec 1963)",United States,,20-244,4:29.850
+03-Aug-1984,Cycling - Track Team Pursuit Men - Olympic Games 1984,2,S,"Léonard Nitz (USA, 30 Sep 1956)",United States,,27-308,4:29.850
+03-Aug-1984,Cycling - Track Team Pursuit Men - Olympic Games 1984,2,S,"Patrick McDonough (USA, 22 Jul 1961)",United States,,23-012,4:29.850
+03-Aug-1984,Cycling - Track Team Pursuit Men - Olympic Games 1984,2,S,"Brent Emery (USA, 15 Sep 1957)",United States,,26-323,
+01-Aug-1984,Cycling - Track 4km Individual Pursuit Men - Olympic Games 1984,2,S,"Rolf Gölz (GER, 30 Sep 1962)",West Germany,,21-306,
+30-Jul-1984,Cycling - Track 1km Time Trial Men - Olympic Games 1984,2,S,"Curtis Harnett (CAN, 14 May 1965)",Canada,,19-077,1:06.436
+03-Aug-1980,Cycling - Track Team Pursuit Men - Olympic Games 1980,2,S,East Germany,East Germany,,25-101,4:19.67
+03-Aug-1980,Cycling - Track Team Pursuit Men - Olympic Games 1980,2,S,"Gerald Mortag (GER, 08 Nov 1958)",East Germany,,21-269,
+03-Aug-1980,Cycling - Track Team Pursuit Men - Olympic Games 1980,2,S,"Uwe Unterwalder (GER, 15 Jul 1950)",East Germany,,30-019,
+03-Aug-1980,Cycling - Track Team Pursuit Men - Olympic Games 1980,2,S,"Matthias Wiegand (GER, 22 Apr 1954)",East Germany,,26-103,
+03-Aug-1980,Cycling - Track Team Pursuit Men - Olympic Games 1980,2,S,"Volker Winkler (GER, 20 Jul 1957)",East Germany,,23-014,
+26-Jul-1980,Cycling - Track Sprint Men - Olympic Games 1980,2,S,"Yavé Cahard (FRA, 26 Dec 1957)",France,,22-213,
+24-Jul-1980,Cycling - Track 4km Individual Pursuit Men - Olympic Games 1980,2,S,"Alain Bondue (FRA, 08 Apr 1959)",France,,21-107,4:42.960
+22-Jul-1980,Cycling - Track 1km Time Trial Men - Olympic Games 1980,2,S,"Aleksandr Panfilov (UZB, 11 Oct 1960)",Soviet Union,,19-285,1:04.845
+24-Jul-1976,Cycling - Track Sprint Men - Olympic Games 1976,2,S,"Daniël Morelon (FRA, 24 Jul 1944)",France,,32-000,
+24-Jul-1976,Cycling - Track Team Pursuit Men - Olympic Games 1976,2,S,Soviet Union,Soviet Union,,21-325,4:27.15
+24-Jul-1976,Cycling - Track Team Pursuit Men - Olympic Games 1976,2,S,"Vladimir Osokin (RUS, 08 Jan 1954)",Soviet Union,,22-198,
+24-Jul-1976,Cycling - Track Team Pursuit Men - Olympic Games 1976,2,S,"Aleksandr Perov (RUS, 02 Jun 1955)",Soviet Union,,21-052,
+24-Jul-1976,Cycling - Track Team Pursuit Men - Olympic Games 1976,2,S,"Vitaly Petrakov (RUS, 10 Dec 1954)",Soviet Union,,21-227,
+24-Jul-1976,Cycling - Track Team Pursuit Men - Olympic Games 1976,2,S,"Viktor Sokolov (RUS, 24 Apr 1954)",Soviet Union,,22-091,
+22-Jul-1976,Cycling - Track 4km Individual Pursuit Men - Olympic Games 1976,2,S,"Herman Ponsteen (NED, 27 Mar 1953)",Netherlands,,23-117,4:49.72
+20-Jul-1976,Cycling - Track 1km Time Trial Men - Olympic Games 1976,2,S,"Michel Vaarten (BEL, 10 Jan 1957)",Belgium,,19-192,1:07.516
+02-Sep-1972,Cycling - Track Sprint Men - Olympic Games 1972,2,S,"John Nicholson (AUS, 22 Jun 1949)",Australia,,23-072,
+02-Sep-1972,Cycling - Track Tandem Men - Olympic Games 1972,2,S,Geschke / Otto,East Germany,,26-282,
+02-Sep-1972,Cycling - Track Tandem Men - Olympic Games 1972,2,S,"Tutti Geschke (GER, 07 Jul 1943)",East Germany,,29-057,
+02-Sep-1972,Cycling - Track Tandem Men - Olympic Games 1972,2,S,"Werner Otto (GER, 15 Apr 1948)",East Germany,,24-140,
+02-Sep-1972,Cycling - Track Team Pursuit Men - Olympic Games 1972,2,S,East Germany,East Germany,,24-117,4:25.25
+02-Sep-1972,Cycling - Track Team Pursuit Men - Olympic Games 1972,2,S,"Uwe Unterwalder (GER, 15 Jul 1950)",East Germany,,22-049,4:25.25
+02-Sep-1972,Cycling - Track Team Pursuit Men - Olympic Games 1972,2,S,"Thomas Huschke (GER, 29 Dec 1947)",East Germany,,24-248,4:25.25
+02-Sep-1972,Cycling - Track Team Pursuit Men - Olympic Games 1972,2,S,"Herbert Richter (GER, 26 Apr 1947)",East Germany,,25-129,4:25.25
+02-Sep-1972,Cycling - Track Team Pursuit Men - Olympic Games 1972,2,S,"Heinz Richter (GER, 24 Jul 1947)",East Germany,,25-040,4:25.25
+01-Sep-1972,Cycling - Track 4km Individual Pursuit Men - Olympic Games 1972,2,S,"Xaver Kurmann (SUI, 29 Aug 1948)",Switzerland,,24-003,4:51.96
+31-Aug-1972,Cycling - Track 1km Time Trial Men - Olympic Games 1972,2,S,"Danny Clark (AUS, 30 Aug 1951)",Australia,,21-001,1:06.87
+27-Oct-1968,Cycling - Track Tandem Men - Olympic Games 1968,2,S,Loeveseijn / Jansen,Netherlands,,21-271,
+27-Oct-1968,Cycling - Track Tandem Men - Olympic Games 1968,2,S,"Leijn Loeveseijn (NED, 02 Jan 1949)",Netherlands,,19-299,
+27-Oct-1968,Cycling - Track Tandem Men - Olympic Games 1968,2,S,"Jan Jansen (NED, 26 Feb 1945)",Netherlands,,23-244,
+27-Oct-1968,Cycling - Track Team Pursuit Men - Olympic Games 1968,2,S,West Germany,West Germany,,24-352,4:18.94
+27-Oct-1968,Cycling - Track Team Pursuit Men - Olympic Games 1968,2,S,"Karl Heinz Henrichs (GER, 01 Jul 1942)",West Germany,,26-118,4:18.94
+27-Oct-1968,Cycling - Track Team Pursuit Men - Olympic Games 1968,2,S,"Karl Link (GER, 27 Jul 1942)",West Germany,,26-092,4:18.94
+27-Oct-1968,Cycling - Track Team Pursuit Men - Olympic Games 1968,2,S,"Udo Hempel (GER, 03 Nov 1946)",West Germany,,21-359,4:18.94
+27-Oct-1968,Cycling - Track Team Pursuit Men - Olympic Games 1968,2,S,"Jürgen Kissner (GER, 18 Aug 1942)",West Germany,,26-070,4:18.94
+27-Oct-1968,Cycling - Track Team Pursuit Men - Olympic Games 1968,2,S,"Rainer Podlesch (GER, 04 Oct 1944)",West Germany,,24-023,
+19-Oct-1968,Cycling - Track Sprint Men - Olympic Games 1968,2,S,"Giordano Turrini (ITA, 28 Mar 1942)",Italy,,26-205,
+18-Oct-1968,Cycling - Track 4km Individual Pursuit Men - Olympic Games 1968,2,S,"Mogens Frey (DEN, 02 Jul 1941)",Denmark,,27-108,4:42.43
+17-Oct-1968,Cycling - Track 1km Time Trial Men - Olympic Games 1968,2,S,"Niels-Christian Fredborg (DEN, 28 Oct 1946)",Denmark,,21-355,1:04.61
+24-Oct-1964,Cycling - Track Tandem Men - Olympic Games 1964,2,S,Bodnieks / Logunov,Soviet Union,,21-309,
+24-Oct-1964,Cycling - Track Tandem Men - Olympic Games 1964,2,S,"Imants Bodnieks (LAT, 20 May 1941)",Soviet Union,,23-157,
+24-Oct-1964,Cycling - Track Tandem Men - Olympic Games 1964,2,S,"Viktor Logunov (RUS, 21 Jul 1944)",Soviet Union,,20-095,
+19-Oct-1964,Cycling - Track Team Pursuit Men - Olympic Games 1964,2,S,Italy,Italy,,23-324,4:35.74
+19-Oct-1964,Cycling - Track Team Pursuit Men - Olympic Games 1964,2,S,"Carlo Rancati (ITA, 28 Apr 1940)",Italy,,24-174,4:35.74
+19-Oct-1964,Cycling - Track Team Pursuit Men - Olympic Games 1964,2,S,"Luigi Roncaglia (ITA, 10 Jun 1943)",Italy,,21-131,4:35.74
+19-Oct-1964,Cycling - Track Team Pursuit Men - Olympic Games 1964,2,S,"Cencio Mantovani (ITA, 17 Oct 1941)",Italy,,23-002,4:35.74
+19-Oct-1964,Cycling - Track Team Pursuit Men - Olympic Games 1964,2,S,"Franco Testa (ITA, 07 Feb 1938)",Italy,,26-255,4:35.74
+18-Oct-1964,Cycling - Track Sprint Men - Olympic Games 1964,2,S,"Sergio Bianchetto (ITA, 16 Feb 1939)",Italy,,25-245,
+17-Oct-1964,Cycling - Track 4km Individual Pursuit Men - Olympic Games 1964,2,S,"Giorgio Ursi (ITA, 01 Sep 1942)",Italy,,22-046,5:05.96
+16-Oct-1964,Cycling - Track 1km Time Trial Men - Olympic Games 1964,2,S,"Giovanni Pettenella (ITA, 28 Mar 1943)",Italy,,21-202,1:10.09
+11-Sep-1960,Cycling - Track Sprint Men - Olympic Games 1960,2,S,"Leo Sterckx (BEL, 16 Jul 1936)",Belgium,,24-057,
+11-Sep-1960,Cycling - Track Team Pursuit Men - Olympic Games 1960,2,S,Unified Team of Germany,Unified Team of Germany,,22-330,4:35.78
+11-Sep-1960,Cycling - Track Team Pursuit Men - Olympic Games 1960,2,S,"Bernd Barleben (GER, 01 Jan 1940)",Unified Team of Germany,,20-254,
+11-Sep-1960,Cycling - Track Team Pursuit Men - Olympic Games 1960,2,S,"Peter Gröning (GER, 29 Apr 1939)",Unified Team of Germany,,21-135,
+11-Sep-1960,Cycling - Track Team Pursuit Men - Olympic Games 1960,2,S,"Manfred Klieme (GER, 03 Feb 1936)",Unified Team of Germany,,24-221,
+11-Sep-1960,Cycling - Track Team Pursuit Men - Olympic Games 1960,2,S,"Siegfried Köhler (GER, 06 Oct 1935)",Unified Team of Germany,,24-341,
+27-Aug-1960,Cycling - Track Tandem Men - Olympic Games 1960,2,S,Stäber / Simon,Unified Team of Germany,,23-190,
+27-Aug-1960,Cycling - Track Tandem Men - Olympic Games 1960,2,S,"Jürgen Simon (GER, 10 Jan 1938)",Unified Team of Germany,,22-230,
+27-Aug-1960,Cycling - Track Tandem Men - Olympic Games 1960,2,S,"Lothar Stäber (GER, 01 Apr 1936)",Unified Team of Germany,,24-148,
+26-Aug-1960,Cycling - Track 1km Time Trial Men - Olympic Games 1960,2,S,"Dieter Gieseler (GER, 10 Jan 1941)",Unified Team of Germany,,19-229,1:08.75
+06-Dec-1956,Cycling - Track 1km Time Trial Men - Olympic Games 1956,2,S,"Ladislav Foucek (TCH, 10 Dec 1930)",Czechoslovakia,,25-362,1:11.4
+06-Dec-1956,Cycling - Track Sprint Men - Olympic Games 1956,2,S,"Guglielmo Pesenti (ITA, 18 Dec 1933)",Italy,,22-354,
+06-Dec-1956,Cycling - Track Tandem Men - Olympic Games 1956,2,S,Foucek / Máchek,Czechoslovakia,,28-171,
+06-Dec-1956,Cycling - Track Tandem Men - Olympic Games 1956,2,S,"Václav Máchek (TCH, 27 Dec 1925)",Czechoslovakia,,30-345,
+06-Dec-1956,Cycling - Track Tandem Men - Olympic Games 1956,2,S,"Ladislav Foucek (TCH, 10 Dec 1930)",Czechoslovakia,,25-362,
+04-Dec-1956,Cycling - Track Team Pursuit Men - Olympic Games 1956,2,S,France,France,,22-217,4:39.4
+04-Dec-1956,Cycling - Track Team Pursuit Men - Olympic Games 1956,2,S,"Jean-Claude Lecante (FRA, 12 Nov 1934)",France,,22-022,
+04-Dec-1956,Cycling - Track Team Pursuit Men - Olympic Games 1956,2,S,"Jean Graczyk (FRA, 26 May 1933)",France,,23-192,
+04-Dec-1956,Cycling - Track Team Pursuit Men - Olympic Games 1956,2,S,"René Bianchi (FRA, 20 May 1934)",France,,22-198,
+04-Dec-1956,Cycling - Track Team Pursuit Men - Olympic Games 1956,2,S,"Michel Vermeulin (FRA, 06 Sep 1934)",France,,22-089,
+31-Jul-1952,Cycling - Track 1km Time Trial Men - Olympic Games 1952,2,S,"Marino Morettini (ITA, 02 Jan 1931)",Italy,,21-211,1:12.7
+31-Jul-1952,Cycling - Track Sprint Men - Olympic Games 1952,2,S,"Lionel Cox (AUS, 26 Feb 1930)",Australia,,22-156,
+31-Jul-1952,Cycling - Track Tandem Men - Olympic Games 1952,2,S,Shardelow / Robinson,South Africa,,21-298,
+31-Jul-1952,Cycling - Track Tandem Men - Olympic Games 1952,2,S,"Raymond Robinson (RSA, 03 Sep 1929)",South Africa,,22-332,
+31-Jul-1952,Cycling - Track Tandem Men - Olympic Games 1952,2,S,"Thomas Shardelow (RSA, 11 Nov 1931)",South Africa,,20-263,
+29-Jul-1952,Cycling - Track Team Pursuit Men - Olympic Games 1952,2,S,South Africa,South Africa,,23-032,4:53.6
+29-Jul-1952,Cycling - Track Team Pursuit Men - Olympic Games 1952,2,S,"George Estman (RSA, 08 Sep 1922)",South Africa,,29-325,
+29-Jul-1952,Cycling - Track Team Pursuit Men - Olympic Games 1952,2,S,"Robert Fowler (RSA, 05 Dec 1931)",South Africa,,20-237,
+29-Jul-1952,Cycling - Track Team Pursuit Men - Olympic Games 1952,2,S,"Thomas Shardelow (RSA, 11 Nov 1931)",South Africa,,20-261,
+29-Jul-1952,Cycling - Track Team Pursuit Men - Olympic Games 1952,2,S,"Alfred Swift (RSA, 25 Jun 1931)",South Africa,,21-034,
+11-Aug-1948,Cycling - Track 1km Time Trial Men - Olympic Games 1948,2,S,"Pierre Nihant (BEL, 05 Apr 1925)",Belgium,,23-128,1:14.5
+11-Aug-1948,Cycling - Track Tandem Men - Olympic Games 1948,2,S,Bannister / Harris,Great Britain,,27-040,
+11-Aug-1948,Cycling - Track Tandem Men - Olympic Games 1948,2,S,"Alan Bannister (GBR, 03 Nov 1922)",Great Britain,,25-282,
+11-Aug-1948,Cycling - Track Tandem Men - Olympic Games 1948,2,S,"Reginald Harris (ENG, 01 Mar 1920)",Great Britain,,28-163,
+09-Aug-1948,Cycling - Track Sprint Men - Olympic Games 1948,2,S,"Reginald Harris (ENG, 01 Mar 1920)",Great Britain,,28-161,
+09-Aug-1948,Cycling - Track Team Pursuit Men - Olympic Games 1948,2,S,Italy,Italy,,24-260,5:36.7
+09-Aug-1948,Cycling - Track Team Pursuit Men - Olympic Games 1948,2,S,"Guido Bernardi (ITA, 21 Sep 1921)",Italy,,26-323,
+09-Aug-1948,Cycling - Track Team Pursuit Men - Olympic Games 1948,2,S,"Arnaldo Benfenati (ITA, 26 May 1924)",Italy,,24-075,
+09-Aug-1948,Cycling - Track Team Pursuit Men - Olympic Games 1948,2,S,"Anselmo Citterio (ITA, 19 May 1927)",Italy,,21-082,
+09-Aug-1948,Cycling - Track Team Pursuit Men - Olympic Games 1948,2,S,"Rino Pucci (ITA, 29 Jan 1922)",Italy,,26-193,
+08-Aug-1936,Cycling - Track 1km Time Trial Men - Olympic Games 1936,2,S,"Pierre Georget (FRA, 09 Aug 1917)",France,,18-365,1:12.8
+08-Aug-1936,Cycling - Track Tandem Men - Olympic Games 1936,2,S,Ooms / Leene,Netherlands,,26-342,
+08-Aug-1936,Cycling - Track Tandem Men - Olympic Games 1936,2,S,"Bernard Leene (NED, 15 Feb 1903)",Netherlands,,33-175,
+08-Aug-1936,Cycling - Track Tandem Men - Olympic Games 1936,2,S,"Henk Ooms (NED, 18 Mar 1916)",Netherlands,,20-143,
+08-Aug-1936,Cycling - Track Team Pursuit Men - Olympic Games 1936,2,S,Italy,Italy,,21-359,4:51.0
+08-Aug-1936,Cycling - Track Team Pursuit Men - Olympic Games 1936,2,S,"Mario Gentili (ITA, 31 Jan 1913)",Italy,,23-190,4:51.0
+08-Aug-1936,Cycling - Track Team Pursuit Men - Olympic Games 1936,2,S,"Bianco Bianchi (ITA, 06 Apr 1917)",Italy,,19-124,4:51.0
+08-Aug-1936,Cycling - Track Team Pursuit Men - Olympic Games 1936,2,S,"Armando Latini (ITA, 20 May 1913)",Italy,,23-080,4:51.0
+08-Aug-1936,Cycling - Track Team Pursuit Men - Olympic Games 1936,2,S,"Severino Rigoni (ITA, 03 Oct 1914)",Italy,,21-310,4:51.0
+07-Aug-1936,Cycling - Track Sprint Men - Olympic Games 1936,2,S,"Arie van Vliet (NED, 18 Mar 1916)",Netherlands,,20-142,
+03-Aug-1932,Cycling - Track Sprint Men - Olympic Games 1932,2,S,"Louis Chaillot (FRA, 02 Mar 1914)",France,,18-154,
+03-Aug-1932,Cycling - Track Tandem Men - Olympic Games 1932,2,S,Chambers / Chambers,Great Britain,,23-223,
+03-Aug-1932,Cycling - Track Tandem Men - Olympic Games 1932,2,S,"Ernest Chambers (GBR, 07 Apr 1907)",Great Britain,,25-118,
+03-Aug-1932,Cycling - Track Tandem Men - Olympic Games 1932,2,S,"Stanley Chambers (GBR, 13 Sep 1910)",Great Britain,,21-325,
+03-Aug-1932,Cycling - Track Team Pursuit Men - Olympic Games 1932,2,S,France,France,,21-241,4:55.7
+03-Aug-1932,Cycling - Track Team Pursuit Men - Olympic Games 1932,2,S,"Paul Chocque (FRA, 14 Jul 1910)",France,,22-020,
+03-Aug-1932,Cycling - Track Team Pursuit Men - Olympic Games 1932,2,S,"Amédée Fournier (FRA, 07 Feb 1912)",France,,20-178,
+03-Aug-1932,Cycling - Track Team Pursuit Men - Olympic Games 1932,2,S,"René Le Grevès (FRA, 06 Jul 1910)",France,,22-028,
+03-Aug-1932,Cycling - Track Team Pursuit Men - Olympic Games 1932,2,S,"Henri Mouillefarine (FRA, 01 Aug 1910)",France,,22-002,
+01-Aug-1932,Cycling - Track 1km Time Trial Men - Olympic Games 1932,2,S,"Jacques van Egmond (NED, 17 Feb 1908)",Netherlands,,24-166,1:13.3
+06-Aug-1928,Cycling - Track Sprint Men - Olympic Games 1928,2,S,"Antoine Mazairac (NED, 24 May 1901)",Netherlands,,27-074,
+06-Aug-1928,Cycling - Track Tandem Men - Olympic Games 1928,2,S,Chambers / Sibbit,Great Britain,,27-138,
+06-Aug-1928,Cycling - Track Tandem Men - Olympic Games 1928,2,S,"Ernest Chambers (GBR, 07 Apr 1907)",Great Britain,,21-121,
+06-Aug-1928,Cycling - Track Tandem Men - Olympic Games 1928,2,S,"John Sibbit (GBR, 04 Mar 1895)",Great Britain,,33-155,
+06-Aug-1928,Cycling - Track Team Pursuit Men - Olympic Games 1928,2,S,Netherlands,Netherlands,,25-074,5:06.2
+06-Aug-1928,Cycling - Track Team Pursuit Men - Olympic Games 1928,2,S,"Janus Braspennincx (NED, 05 Mar 1903)",Netherlands,,25-154,
+06-Aug-1928,Cycling - Track Team Pursuit Men - Olympic Games 1928,2,S,"Piet van der Horst (NED, 25 Oct 1903)",Netherlands,,24-286,
+06-Aug-1928,Cycling - Track Team Pursuit Men - Olympic Games 1928,2,S,"Jan Maas (NED, 17 Jun 1900)",Netherlands,,28-050,
+06-Aug-1928,Cycling - Track Team Pursuit Men - Olympic Games 1928,2,S,"Jan Pijnenburg (NED, 15 Feb 1906)",Netherlands,,22-173,
+04-Aug-1928,Cycling - Track 1km Time Trial Men - Olympic Games 1928,2,S,"Gerard Bosch van Drakestein (NED, 24 Jul 1887)",Netherlands,,41-011,1:15.1
+27-Jul-1924,Cycling - Track 50km Race Men - Olympic Games 1924,2,S,"Cyril Alden (GBR, 30 Nov 1883)",Great Britain,,40-240,1:18:24.0
+27-Jul-1924,Cycling - Track Sprint Men - Olympic Games 1924,2,S,"Jaap Meijer (NED, 20 Apr 1905)",Netherlands,,19-098,
+27-Jul-1924,Cycling - Track Tandem Men - Olympic Games 1924,2,S,Hansen / Falck Hansen,Denmark,,21-035,12.600
+27-Jul-1924,Cycling - Track Tandem Men - Olympic Games 1924,2,S,"Edmund Hansen (DEN, 09 Sep 1900)",Denmark,,23-322,
+27-Jul-1924,Cycling - Track Tandem Men - Olympic Games 1924,2,S,"Willy Falck Hansen (DEN, 04 Apr 1906)",Denmark,,18-114,
+27-Jul-1924,Cycling - Track Team Pursuit Men - Olympic Games 1924,2,S,Poland,Poland,,28-103,5:15
+27-Jul-1924,Cycling - Track Team Pursuit Men - Olympic Games 1924,2,S,"Jozef Lange (POL, 16 Mar 1897)",Poland,,27-133,5:15
+27-Jul-1924,Cycling - Track Team Pursuit Men - Olympic Games 1924,2,S,"Jan Lazarski (POL, 26 Oct 1892)",Poland,,31-275,5:15
+27-Jul-1924,Cycling - Track Team Pursuit Men - Olympic Games 1924,2,S,"Tomasz Stankiewicz (POL, 28 Dec 1902)",Poland,,21-212,5:15
+27-Jul-1924,Cycling - Track Team Pursuit Men - Olympic Games 1924,2,S,"Franciszek Szymczyk (POL, 21 Feb 1892)",Poland,,32-157,5:15
+11-Aug-1920,Cycling - Track 50km Race Men - Olympic Games 1920,2,S,"Cyril Alden (GBR, 30 Nov 1883)",Great Britain,,36-255,1:16:43.2
+11-Aug-1920,Cycling - Track Tandem Men - Olympic Games 1920,2,S,Smith / Walker,South Africa,,,2:49.4
+11-Aug-1920,Cycling - Track Tandem Men - Olympic Games 1920,2,S,"William Smith (RSA, 1893)",South Africa,,,
+11-Aug-1920,Cycling - Track Tandem Men - Olympic Games 1920,2,S,"James Walker (RSA, 1897)",South Africa,,,
+10-Aug-1920,Cycling - Track Sprint Men - Olympic Games 1920,2,S,"Tiny Johnson (GBR, 30 Dec 1886)",Great Britain,,33-224,
+10-Aug-1920,Cycling - Track Team Pursuit Men - Olympic Games 1920,2,S,Great Britain,Great Britain,,34-226,5:14.2
+10-Aug-1920,Cycling - Track Team Pursuit Men - Olympic Games 1920,2,S,"Cyril Alden (GBR, 30 Nov 1883)",Great Britain,,36-254,
+10-Aug-1920,Cycling - Track Team Pursuit Men - Olympic Games 1920,2,S,"Tiny Johnson (GBR, 30 Dec 1886)",Great Britain,,33-224,
+10-Aug-1920,Cycling - Track Team Pursuit Men - Olympic Games 1920,2,S,"Jock Stewart (GBR, 30 Nov 1882)",Great Britain,,37-254,
+10-Aug-1920,Cycling - Track Team Pursuit Men - Olympic Games 1920,2,S,"Albert White (GBR, 19 Feb 1890)",Great Britain,,30-173,
+18-Jul-1908,Cycling - Track 5km Race Men - Olympic Games 1908,2,S,"Maurice Schilles (FRA, 25 Feb 1888)",France,,20-144,
+18-Jul-1908,Cycling - Track 100km Race Men - Olympic Games 1908,2,S,Charles Denny (GBR),Great Britain,,,
+17-Jul-1908,Cycling - Track Team Pursuit Men - Olympic Games 1908,2,S,Germany,Germany,,26-293,2:28.6
+17-Jul-1908,Cycling - Track Team Pursuit Men - Olympic Games 1908,2,S,"Max Götze (GER, 13 Oct 1880)",Germany,,27-278,
+17-Jul-1908,Cycling - Track Team Pursuit Men - Olympic Games 1908,2,S,"Rudolf Katzer (GER, 1888)",Germany,,,
+17-Jul-1908,Cycling - Track Team Pursuit Men - Olympic Games 1908,2,S,"Hermann Martens (GER, 16 Apr 1877)",Germany,,31-092,
+17-Jul-1908,Cycling - Track Team Pursuit Men - Olympic Games 1908,2,S,"Karl Neumer (GER, 23 Feb 1887)",Germany,,21-145,
+15-Jul-1908,Cycling - Track 1 lap race Men - Olympic Games 1908,2,S,"Emile Demangel (FRA, 20 Jun 1882)",France,,26-025,
+15-Jul-1908,Cycling - Track Tandem Men - Olympic Games 1908,2,S,Hamlin / Johnson,Great Britain,,21-198,
+15-Jul-1908,Cycling - Track Tandem Men - Olympic Games 1908,2,S,"Tiny Johnson (GBR, 30 Dec 1886)",Great Britain,,21-198,
+15-Jul-1908,Cycling - Track Tandem Men - Olympic Games 1908,2,S,Frederick Hamlin (GBR),Great Britain,,,
+14-Jul-1908,Cycling - Track 20km Race Men - Olympic Games 1908,2,S,"Benjamin Jones (GBR, 30 Nov 1881)",Great Britain,,26-227,
+05-Aug-1904,Cycling - Track 1 mile Race Men - Olympic Games 1904,2,S,"Burton Downing (USA, 05 Feb 1885)",United States,,19-182,2:41.6
+05-Aug-1904,Cycling - Track 1/3 mile Race Men - Olympic Games 1904,2,S,"Burton Downing (USA, 05 Feb 1885)",United States,,19-182,43.8
+05-Aug-1904,Cycling - Track 5 mile Race Men - Olympic Games 1904,2,S,"George Wiley (USA, 07 May 1881)",United States,,23-090,
+05-Aug-1904,Cycling - Track 25 mile Race Men - Olympic Games 1904,2,S,Arthur F. Andrews (USA),United States,,,
+03-Aug-1904,Cycling - Track 1/4 mile Race Men - Olympic Games 1904,2,S,"Burton Downing (USA, 05 Feb 1885)",United States,,19-180,
+03-Aug-1904,Cycling - Track 2 mile Race Men - Olympic Games 1904,2,S,"Oscar Goerke (USA, 10 Jan 1883)",United States,,21-206,
+02-Aug-1904,Cycling - Track 1/2 mile Race Men - Olympic Games 1904,2,S,"Edwin Billington (USA, 14 Jul 1882)",United States,,22-019,
+15-Sep-1900,Cycling - Track 25km Race Men - Olympic Games 1900,2,S,Louis Hildebrand (FRA),France,,,28:09.4
+15-Sep-1900,Cycling - Track Points Race Men - Olympic Games 1900,2,S,Karl Duill (GER),Germany,,,9
+15-Sep-1900,Cycling - Track Sprint Men - Olympic Games 1900,2,S,"Fernand Sanz (FRA, 28 Feb 1881)",France,,19-199,
+13-Apr-1896,Cycling - Track 12 hour Race Men - Olympic Games 1896,2,S,"Frank Keeping (GBR, 11 Aug 1867)",Great Britain,,28-246,294.946
+11-Apr-1896,Cycling - Track 1 lap race Men - Olympic Games 1896,2,S,Stamatios Nikolopoulos (GRE),Greece,,,25.4
+11-Apr-1896,Cycling - Track 10km Race Men - Olympic Games 1896,2,S,"Léon Flameng (FRA, 30 Apr 1877)",France,,18-347,17:54.8
+11-Apr-1896,Cycling - Track Sprint Men - Olympic Games 1896,2,S,Stamatios Nikolopoulos (GRE),Greece,,,5:00.2
+08-Apr-1896,Cycling - Track 100km Race Men - Olympic Games 1896,2,S,Georgios Kolettis (GRE),Greece,,,
