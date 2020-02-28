@@ -1,4 +1,4 @@
-# hpad_results_tracking
+# HP Athlete Development - Performance Tracking 
 
 Athlete development towards elite (medal) success must be appropriately measured over time so that NSOs can adjust their pathways. There is presently (Feb 2020) no standard approach to tracking the progression of performance across sports; each sport employs a different method of performance tracking. 
 This project aims to build a tool that will allow HPSNZ and NSOs to acurrately track athlete performance progression. The Sailing Performance Funnels developed by Simon Briscoe are the conceptual basis for this as a starting point, whereby Olympic medallists' annual pinnacle performances are used to frame expectations leading up to a Games competition.
