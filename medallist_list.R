@@ -234,6 +234,12 @@ ggplot(calcs) + geom_line(aes(x = -yearsout, y = cases, colour = metric), linety
   ggtitle("Cycling Funnel - Path to First Olympic Medal - All Disciplines") +
   ylab('Pinnacle Event Result') +
   xlab('Years out from Games')
+
+# number medallists by yearsout
+counts <- funnel_data %>% 
+  group_by(yearsout) %>%
+  count() %>%
+  filter(n > 2)  #################### only using yearsout with 3 or more medallists
                           
 
 
