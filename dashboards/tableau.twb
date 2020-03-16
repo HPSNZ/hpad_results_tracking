@@ -1,0 +1,316 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20194.19.1211.1636                               -->
+<workbook original-version='18.1' source-build='2019.4.1 (20194.19.1211.1636)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <SheetIdentifierTracking ignorable='true' predowngraded='true' />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='funnel_data_2020' inline='true' name='federated.1cdf0c30iouf2f1cs0j5v06mgrhn' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='funnel_data_2020' name='textscan.04l47k9052gmxj14k2s84072yb57'>
+            <connection class='textscan' directory='C:/Users/bend/OneDrive - SportNZGroup/Documents/INTELLIGENCE/DATA PROJECTS/20200219 HPAD Results Tracking/hpad_results_tracking' filename='funnel_data_2020.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.04l47k9052gmxj14k2s84072yb57' name='funnel_data_2020.csv' table='[funnel_data_2020#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_NZ' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='integer' name='yearsout' ordinal='1' />
+            <column datatype='string' name='discipline' ordinal='2' />
+            <column datatype='string' name='metric' ordinal='3' />
+            <column datatype='real' name='result' ordinal='4' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[funnel_data_2020.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='debit-close-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='debit-open-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_NZ&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[funnel_data_2020.csv]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>yearsout</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[yearsout]</local-name>
+            <parent-name>[funnel_data_2020.csv]</parent-name>
+            <remote-alias>yearsout</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>discipline</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[discipline]</local-name>
+            <parent-name>[funnel_data_2020.csv]</parent-name>
+            <remote-alias>discipline</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>metric</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[metric]</local-name>
+            <parent-name>[funnel_data_2020.csv]</parent-name>
+            <remote-alias>metric</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>result</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[result]</local-name>
+            <parent-name>[funnel_data_2020.csv]</parent-name>
+            <remote-alias>result</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <column aggregation='CountD' datatype='string' name='[metric]' role='dimension' type='nominal' />
+      <column-instance column='[metric]' derivation='Min' name='[min:metric:nk]' pivot='key' type='nominal' />
+      <column-instance column='[metric]' derivation='None' name='[none:metric:nk]' pivot='key' type='nominal' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.481802' measure-ordering='alphabetic' measure-percentage='0.518198' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[min:metric:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;median&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;q90&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;q75&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;q25&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;q10&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:metric:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;median&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;q90&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;q75&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;q25&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;q10&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;New Zealand&quot;' />
+      </semantic-values>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>funnel</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='funnel_data_2020' name='federated.1cdf0c30iouf2f1cs0j5v06mgrhn' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1cdf0c30iouf2f1cs0j5v06mgrhn'>
+            <column datatype='string' name='[discipline]' role='dimension' type='nominal' />
+            <column aggregation='CountD' datatype='string' name='[metric]' role='dimension' type='nominal' />
+            <column-instance column='[discipline]' derivation='None' name='[none:discipline:nk]' pivot='key' type='nominal' />
+            <column-instance column='[metric]' derivation='None' name='[none:metric:nk]' pivot='key' type='nominal' />
+            <column-instance column='[result]' derivation='None' name='[none:result:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[yearsout]' derivation='None' name='[none:yearsout:qk]' pivot='key' type='quantitative' />
+            <column datatype='real' name='[result]' role='measure' type='quantitative' />
+            <column datatype='integer' name='[yearsout]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1cdf0c30iouf2f1cs0j5v06mgrhn].[none:discipline:nk]'>
+            <groupfilter function='member' level='[none:discipline:nk]' member='&quot;Team Sprint&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.1cdf0c30iouf2f1cs0j5v06mgrhn].[none:discipline:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.1cdf0c30iouf2f1cs0j5v06mgrhn].[none:yearsout:qk]' field-type='quantitative' reverse='true' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.1cdf0c30iouf2f1cs0j5v06mgrhn].[none:result:qk]' field-type='quantitative' major-origin='0.0' major-spacing='2.0' max='20.0' min='0.0' range-type='fixed' scope='rows' type='space' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-size' field='[federated.1cdf0c30iouf2f1cs0j5v06mgrhn].[none:yearsout:qk]' value='15' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='font-size' value='15' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.1cdf0c30iouf2f1cs0j5v06mgrhn].[none:metric:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='shape' value=':filled/circle' />
+                <format attr='size' value='1.5712155103683472' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1cdf0c30iouf2f1cs0j5v06mgrhn].[none:result:qk]</rows>
+        <cols>[federated.1cdf0c30iouf2f1cs0j5v06mgrhn].[none:yearsout:qk]</cols>
+      </table>
+      <simple-id uuid='{3A74AB8F-8247-47CF-8097-3D3DA53B24A2}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='199'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card mode='dropdown' param='[federated.1cdf0c30iouf2f1cs0j5v06mgrhn].[none:discipline:nk]' type='filter' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1cdf0c30iouf2f1cs0j5v06mgrhn].[none:metric:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1cdf0c30iouf2f1cs0j5v06mgrhn].[:Measure Names]</field>
+            <field>[federated.1cdf0c30iouf2f1cs0j5v06mgrhn].[cnt:metric:qk]</field>
+            <field>[federated.1cdf0c30iouf2f1cs0j5v06mgrhn].[none:discipline:nk]</field>
+            <field>[federated.1cdf0c30iouf2f1cs0j5v06mgrhn].[none:metric:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{CB087721-83D8-4582-9FE2-7C6F3775C22D}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      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
+      RULtOuz53LcAAAAASUVORK5CYII=
+    </thumbnail>
+  </thumbnails>
+</workbook>

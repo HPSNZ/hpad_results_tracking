@@ -37,7 +37,7 @@ df <- rbind(m1, m2, m3) %>%
 rm(m1, m2, m3)
 
 # how many years back?
-df <- df %>% filter(year > 1999) ###################### many existing events made first appearance at 2000 Games
+#df <- df %>% filter(year > 1999) ###################### many existing events made first appearance at 2000 Games
 
 # list of medallists - includess individuals from tandems 
 medallists_ind <- unique(df$Person.Name[df$teamflag == FALSE])
@@ -85,6 +85,7 @@ df_all <- df2
 
 # initially filter results to 2016
 df2 <- df2 %>% filter(year < 2017)
+########################################################## UPDATE THIS POST TOKYO
 
 # Focus on select df2 columns
 df2 <- df2 %>%
@@ -189,7 +190,7 @@ funnel_data <- funnel_data %>%
   filter(!is.na(Rank)) %>%
   arrange(Person.Name) %>%
   mutate(discipline2 = str_replace(discipline, " Men" , "")) %>%
-  mutate(discipline2 = str_replace(discipline2, " Women" , ""))
+  mutate(discipline2 = str_replace(discipline2, " Women" , "")) ################## Group men and women together
 
 
 # how many medallists
@@ -256,7 +257,7 @@ counts <- funnel_data %>%
   group_by(yearsout) %>%
   filter(yearsout < 9) %>%    ##################### 13 medallists 8 yearsout, 4 or fewer medallists 9 or more yearsout
   count() %>%
-  filter(n > 2)  #################### only using yearsout with 3 or more medallists
+  filter(n > 4)  #################### only using yearsout with 5 or more medallists
 counts
 
 
@@ -277,7 +278,7 @@ funnel_lines <- function(x) {
     group_by(yearsout) %>%
     filter(yearsout < 9) %>%
     count() %>%
-    filter(n > 2)  #################### only using yearsout with 3 or more medallists
+    filter(n > 4)  #################### only using yearsout with 5 or more medallists
   
   # calculate spread of ranks
   calcs <- funnel_data %>% filter(discipline2 %in% x) %>%
@@ -318,12 +319,7 @@ funnel_lines(c())
 
 funnel_lines("Omnium")
 funnel_lines("Madison")
-funnel_lines("Sprint")
-
-
-
-
-## JUNIOR PROGRESSIONS
+funnel_lines("Sprint")## JUNIOR PROGRESSIONS
 # ----------------------
 # From Junior to medal
 funnel_data_junior <- funnel_data %>%
@@ -333,7 +329,7 @@ funnel_data_junior <- funnel_data %>%
 funnel_data_junior %>% select(Person.Name) %>% unique() %>% lengths()
     # 30 medallists
 
-ggplot(funnel_data_junior, aes(x = yearsout, y = Rank)) + geom_point() +
+ggplot(funnel_data_junior, aes(x = yearsout, y = Rank)) + #geom_point() +
   geom_jitter(aes(colour = discipline2), width = 0.1, height = 0.1) +
   #facet_wrap(~ discipline2) +   ######################## remove this for all disciplines
   scale_x_continuous(breaks = seq(0, 10, 1), limits = c(0, 10)) +
@@ -403,7 +399,7 @@ funnel <- function(athlete, x) {
     group_by(yearsout) %>%
     filter(yearsout < 9) %>%
     count() %>%
-    filter(n > 2)  #################### only using yearsout with 3 or more medallists
+    filter(n > 4)  #################### only using yearsout with 3 or more medallists
   
   # calculate spread of ranks
   calcs <- funnel_data %>% filter(discipline2 %in% x) %>%
@@ -452,3 +448,132 @@ funnel("Natasha Hansen", c("Keirin", "Sprint", "Omnium", "Madison"))
 funnel("Natasha Hansen", c("Team Pursuit", "Team Sprint"))
 
 
+
+
+
+
+
+## EXPORT FUNNEL TABLE
+# ------------------------
+# Quick tidy of data before export
+export_funnel_data <- funnel_data %>%
+  ungroup %>%
+  mutate(discipline = str_replace(discipline, " Men" , "")) %>%
+  mutate(discipline = str_replace(discipline, " Women" , "")) %>%
+  select(-discipline2) %>%
+  group_by(yearsout, discipline) %>%
+  filter(yearsout %in% counts$yearsout)
+  summarise(q90 = quantile(Rank, .9),
+            q75 = quantile(Rank, .75),
+            median = median(Rank),
+            q25 = quantile(Rank, .25),
+            q10 = quantile(Rank, .1)) %>%
+  gather(., `q10`, `q25`, `median`, `q75`, `q90`, key = "metric", value = "result")
+
+# Write csv
+write.csv(export_funnel_data, paste0("funnel_data_", olympic_year, ".csv"))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+funnel_lines <- function(x) {
+  
+  #if (is.null(y)) y <- x
+  
+  # number medallists by yearsout
+  counts <- funnel_data %>%
+    filter(discipline %in% x) %>%
+    group_by(yearsout) %>%
+    filter(yearsout < 9) %>%
+    count() %>%
+    filter(n > 4)  #################### only using yearsout with 5 or more medallists
+  
+  # calculate spread of ranks
+  calcs <- funnel_data %>% filter(discipline %in% x) %>%
+    group_by(yearsout) %>%
+    filter(yearsout %in% counts$yearsout) %>%
+    summarise(q90 = quantile(Rank, .9),
+              q75 = quantile(Rank, .75),
+              median = median(Rank),
+              q25 = quantile(Rank, .25),
+              q10 = quantile(Rank, .1)
+    ) %>%
+    gather(., `q10`, `q25`, `median`, `q75`, `q90`, key = 'metric', value = "cases")
+  
+  # plot lines
+  g <- ggplot(calcs) + geom_line(aes(x = -yearsout, y = cases, colour = metric), linetype = "dashed") +
+    
+    scale_x_continuous(breaks = seq(-10, 0, 1), limits = c(-10, 0)) +
+    scale_y_continuous(breaks = seq(0, 20, 2), limits = c(0, 20), sec.axis = dup_axis()) +
+    ggtitle("Cycling Funnel - Path to First Olympic Medal") +
+    labs(subtitle = paste(x, collapse = ', ')) +
+    ylab('Pinnacle Event Result') +
+    xlab('Years out from Games')
+  
+  # set up outputs
+  returnlist <- list()
+  returnlist$first <- counts
+  returnlist$second <- g
+  #returnlist$third <- calcs
+  return(returnlist)
+  
+}
+
+
+## Run function for each discipline
+funnel_lines(c("Keirin", "Sprint", "Omnium", "Madison"))
+funnel_lines(c("Omnium Men"))
