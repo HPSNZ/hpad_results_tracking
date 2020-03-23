@@ -164,7 +164,7 @@ for (i in 1:length(medallists_all)) {
   p <- medallists_all[i]
   a <- unique(first_medal[first_medal$Person.Name == p, "discipline"])
   
-  for (j in 1:length(a)) {
+  for (j in 1:lengths(a)) {
     b <- as.numeric(first_medal[first_medal$Person.Name == p & 
                                first_medal$discipline == as.character(a[j,]), "year"])
     # try(df3[df3$Person.Name == p & df3$discipline == as.character(a[j,]),] <-
@@ -178,7 +178,7 @@ for (i in 1:length(medallists_all)) {
       filter(Person.Name == p,
              discipline == as.character(a[j,]),
              year < b) %>%
-      mutate(yearsout = b - year)
+      mutate(yearsout = b - year) ############ Considering years leading up to each discipline medal separately (not just using first Games attendance)
     
     funnel_data <- rbind(funnel_data, temp)
     
@@ -319,7 +319,11 @@ funnel_lines(c())
 
 funnel_lines("Omnium")
 funnel_lines("Madison")
-funnel_lines("Sprint")## JUNIOR PROGRESSIONS
+funnel_lines("Sprint")
+
+
+
+## JUNIOR PROGRESSIONS
 # ----------------------
 # From Junior to medal
 funnel_data_junior <- funnel_data %>%
@@ -387,7 +391,6 @@ nz <- nz %>%
 # Filter only recent results
 nz <- nz %>% filter(yearsout < 9)
 
-
 # Plot onto funnel
 funnel <- function(athlete, x) {
   
@@ -398,8 +401,8 @@ funnel <- function(athlete, x) {
     filter(discipline2 %in% x) %>%
     group_by(yearsout) %>%
     filter(yearsout < 9) %>%
-    count() %>%
-    filter(n > 4)  #################### only using yearsout with 3 or more medallists
+    count()
+    #filter(n > 4)  #################### only using yearsout with 3 or more medallists
   
   # calculate spread of ranks
   calcs <- funnel_data %>% filter(discipline2 %in% x) %>%
@@ -411,6 +414,7 @@ funnel <- function(athlete, x) {
               q25 = quantile(Rank, .25),
               q10 = quantile(Rank, .1)) %>%
     gather(., `q10`, `q25`, `median`, `q75`, `q90`, key = 'metric', value = "cases")
+  
   
   # results for input athlete
   results <- nz %>% filter(Person.Name == athlete,
@@ -456,124 +460,66 @@ funnel("Natasha Hansen", c("Team Pursuit", "Team Sprint"))
 ## EXPORT FUNNEL TABLE
 # ------------------------
 # Quick tidy of data before export
+
 export_funnel_data <- funnel_data %>%
   ungroup %>%
   mutate(discipline = str_replace(discipline, " Men" , "")) %>%
   mutate(discipline = str_replace(discipline, " Women" , "")) %>%
   select(-discipline2) %>%
   group_by(yearsout, discipline) %>%
-  filter(yearsout %in% counts$yearsout)
-  summarise(q90 = quantile(Rank, .9),
-            q75 = quantile(Rank, .75),
-            median = median(Rank),
-            q25 = quantile(Rank, .25),
-            q10 = quantile(Rank, .1)) %>%
-  gather(., `q10`, `q25`, `median`, `q75`, `q90`, key = "metric", value = "result")
+  filter(yearsout < 9) %>%
+  select(-Person.Name,
+         -year) %>%
+  mutate(Result = as.numeric(ifelse(str_detect(Result, ":"), 
+                                    seconds(ms(Result)),
+                                    Result)))  %>%
+  mutate(Result = as.numeric(ifelse(str_detect(Result, "."), 
+                                    seconds(Result),
+                                    Result)))
+
+# Rename columns fit for Power BI use
+names(export_funnel_data) <- c("Funnel Disciplines",
+                               "Pinnacle Result",
+                               "Pinnacle Time",
+                               "worldsFlag",
+                               "juniorsFlag",
+                               "pinnacleFlag",
+                               "Years Out from Games")
 
 # Write csv
 write.csv(export_funnel_data, paste0("funnel_data_", olympic_year, ".csv"))
 
 
 
+## EXPORT NZ ATHLETE DATA
+# ------------------------
+# Quick tidy of data before export
+export_nz_data <- nz %>%
+  select(-Country,
+         -discipline) %>%
+  mutate(Result = as.numeric(ifelse(str_detect(Result, ":"), 
+                                    seconds(ms(Result)),
+                                    Result)))  %>%
+  mutate(Result = as.numeric(ifelse(str_detect(Result, "."), 
+                                    seconds(Result),
+                                    Result)))
+
+# Rename columns fit for Power BI use
+names(export_nz_data) <- c("Year",
+                               "Pinnacle Result",
+                               "Pinnacle Time",
+                               "Athlete",
+                               "worldsFlag",
+                               "juniorsFlag",
+                               "pinnacleFlag",
+                               "teamFlag",
+                               "Years Out from Games",
+                               "Discipline")
+
+# Write csv
+write.csv(export_nz_data, "funnel_data_nzathletes.csv")
 
 
 
+#
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-funnel_lines <- function(x) {
-  
-  #if (is.null(y)) y <- x
-  
-  # number medallists by yearsout
-  counts <- funnel_data %>%
-    filter(discipline %in% x) %>%
-    group_by(yearsout) %>%
-    filter(yearsout < 9) %>%
-    count() %>%
-    filter(n > 4)  #################### only using yearsout with 5 or more medallists
-  
-  # calculate spread of ranks
-  calcs <- funnel_data %>% filter(discipline %in% x) %>%
-    group_by(yearsout) %>%
-    filter(yearsout %in% counts$yearsout) %>%
-    summarise(q90 = quantile(Rank, .9),
-              q75 = quantile(Rank, .75),
-              median = median(Rank),
-              q25 = quantile(Rank, .25),
-              q10 = quantile(Rank, .1)
-    ) %>%
-    gather(., `q10`, `q25`, `median`, `q75`, `q90`, key = 'metric', value = "cases")
-  
-  # plot lines
-  g <- ggplot(calcs) + geom_line(aes(x = -yearsout, y = cases, colour = metric), linetype = "dashed") +
-    
-    scale_x_continuous(breaks = seq(-10, 0, 1), limits = c(-10, 0)) +
-    scale_y_continuous(breaks = seq(0, 20, 2), limits = c(0, 20), sec.axis = dup_axis()) +
-    ggtitle("Cycling Funnel - Path to First Olympic Medal") +
-    labs(subtitle = paste(x, collapse = ', ')) +
-    ylab('Pinnacle Event Result') +
-    xlab('Years out from Games')
-  
-  # set up outputs
-  returnlist <- list()
-  returnlist$first <- counts
-  returnlist$second <- g
-  #returnlist$third <- calcs
-  return(returnlist)
-  
-}
-
-
-## Run function for each discipline
-funnel_lines(c("Keirin", "Sprint", "Omnium", "Madison"))
-funnel_lines(c("Omnium Men"))
